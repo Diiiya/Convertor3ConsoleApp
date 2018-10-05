@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertor3", "Convertor3\Convertor3.csproj", "{077C7C95-A6B9-4F01-A3E6-4DDD03C2C874}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestConvertor3", "UnitTestConvertor3\UnitTestConvertor3.csproj", "{81756E19-C4E9-4FB6-8885-13D51A20CCAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{077C7C95-A6B9-4F01-A3E6-4DDD03C2C874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{077C7C95-A6B9-4F01-A3E6-4DDD03C2C874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{077C7C95-A6B9-4F01-A3E6-4DDD03C2C874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81756E19-C4E9-4FB6-8885-13D51A20CCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81756E19-C4E9-4FB6-8885-13D51A20CCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81756E19-C4E9-4FB6-8885-13D51A20CCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81756E19-C4E9-4FB6-8885-13D51A20CCAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
